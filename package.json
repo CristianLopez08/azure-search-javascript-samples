@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@azure/search-documents": "^12.0.0"
+  }
+}
